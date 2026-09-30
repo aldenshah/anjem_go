@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ===== Palet utama: biru #0087A8 ===== -->
+    <color name="palette_lightest">#F1F9FB</color>
+    <color name="palette_light">#E6F3F6</color>
+    <color name="palette_light_hover">#D9EDF2</color>
+    <color name="palette_light_active">#B0DAE4</color>
+    <color name="palette_bright">#1FA3C2</color>
+    <color name="palette_normal">#0087A8</color>
+    <color name="palette_normal_hover">#007A97</color>
+    <color name="palette_normal_active">#006C86</color>
+    <color name="palette_dark">#00657E</color>
+    <color name="palette_dark_hover">#005165</color>
+    <color name="palette_dark_active">#003D4C</color>
+    <color name="palette_darker">#002F3B</color>
+
+    <!-- Alias brand (dipertahankan agar kode lama tetap jalan, sekarang biru) -->
+    <color name="brand_green">#0087A8</color>
+    <color name="brand_green_dark">#00657E</color>
+    <color name="brand_green_light">#E6F3F6</color>
+    <color name="brand_green_badge">#E6F3F6</color>
+    <color name="brand_green_badge_border">#B0DAE4</color>
+    <color name="brand_green_badge_text">#00657E</color>
+
+    <!-- Aksen -->
+    <color name="accent_yellow">#FFC93C</color>
+    <color name="promo_orange">#FF8A1F</color>
+    <color name="promo_orange_badge">#FFF1E0</color>
+    <color name="promo_orange_text">#C2620A</color>
+    <color name="danger">#E5484D</color>
+    <color name="danger_bg">#FDECEC</color>
+    <color name="amber_bg">#FFF6DB</color>
+    <color name="amber_text">#8A5A00</color>
+
+    <!-- Latar & garis -->
+    <color name="bg_app">#F3F8FA</color>
+    <color name="card_border">#DCEBF0</color>
+    <color name="divider_line">#E9F2F5</color>
+
+    <!-- Teks -->
+    <color name="text_primary">#0B2530</color>
+    <color name="text_secondary">#557382</color>
+    <color name="text_subtle">#8FA8B4</color>
+
+    <color name="nav_selected">#0087A8</color>
+    <color name="nav_unselected">#7C97A3</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Anjem UNNES</string>
+    <string name="login_title">Masuk ke Anjem UNNES</string>
+    <string name="login_subtitle">Layanan Ojek &amp; Kurir Khusus Kampus UNNES</string>
+    <string name="btn_login">Masuk</string>
+    <string name="home_greeting">Halo, Mahasiswa UNNES!</string>
+    <string name="wallet_balance">Rp 45.000</string>
+    <string name="service_anjem">Anjem Motor</string>
+    <string name="service_kurir">Kurir Barang</string>
+    <string name="service_topup">Top Up KampusPay</string>
+    <string name="order_title">Pesan Anjem / Kurir</string>
+    <string name="pickup_location">TITIK JEMPUT</string>
+    <string name="destination_location">TITIK TUJUAN</string>
+    <string name="driver_notes">CATATAN UNTUK DRIVER (OPSIONAL)</string>
+    <string name="btn_order_now">Pesan Sekarang</string>
+    <string name="dialog_searching_driver">Mencari Driver Terdekat…</string>
+    <string name="dialog_driver_found">Driver Ditemukan!</string>
+</resources>
